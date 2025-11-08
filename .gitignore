@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.gitattributes [
+* text=auto
+*.tsx text
+*.ts text
+*.js text
+*.jsx text
+*.json text
+*.css text
+*.html text]
